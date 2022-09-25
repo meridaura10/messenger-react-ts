@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/meridaura10.github.io/messenger-react/static/css/main.073c9b0a.css",
-    "main.js": "/meridaura10.github.io/messenger-react/static/js/main.18f10652.js",
-    "static/js/787.28cb0dcd.chunk.js": "/meridaura10.github.io/messenger-react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/meridaura10.github.io/messenger-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/meridaura10.github.io/messenger-react/index.html",
-    "main.073c9b0a.css.map": "/meridaura10.github.io/messenger-react/static/css/main.073c9b0a.css.map",
-    "main.18f10652.js.map": "/meridaura10.github.io/messenger-react/static/js/main.18f10652.js.map",
-    "787.28cb0dcd.chunk.js.map": "/meridaura10.github.io/messenger-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/messenger-react/static/css/main.ea797e0a.css",
+    "main.js": "/messenger-react/static/js/main.471fb920.js",
+    "static/media/bg.png": "/messenger-react/static/media/bg.b38d532d314050f96c95.png",
+    "index.html": "/messenger-react/index.html",
+    "main.ea797e0a.css.map": "/messenger-react/static/css/main.ea797e0a.css.map",
+    "main.471fb920.js.map": "/messenger-react/static/js/main.471fb920.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.18f10652.js"
+    "static/css/main.ea797e0a.css",
+    "static/js/main.471fb920.js"
   ]
 }
