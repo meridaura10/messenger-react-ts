@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/messenger-react/static/css/main.48e18286.css",
-    "main.js": "/messenger-react/static/js/main.205d8bd7.js",
+    "main.js": "/messenger-react/static/js/main.5effb613.js",
     "index.html": "/messenger-react/index.html",
     "main.48e18286.css.map": "/messenger-react/static/css/main.48e18286.css.map",
-    "main.205d8bd7.js.map": "/messenger-react/static/js/main.205d8bd7.js.map"
+    "main.5effb613.js.map": "/messenger-react/static/js/main.5effb613.js.map"
   },
   "entrypoints": [
     "static/css/main.48e18286.css",
-    "static/js/main.205d8bd7.js"
+    "static/js/main.5effb613.js"
   ]
 }
